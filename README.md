@@ -1,19 +1,55 @@
-# 📦 Samsung Supply Chain & Logistics Dashboard | Power BI Analysis
+# 🚚 Samsung Supply Chain & Logistics Analytics Dashboard
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Domain](https://img.shields.io/badge/Domain-Supply%20Chain%20Analytics-blue)
-![Project Type](https://img.shields.io/badge/Type-Interactive%20Dashboard-orange)
+<div align="center">
+
+### 📊 Enterprise Supply Chain Intelligence | Power BI Project
+
+<img src="https://img.shields.io/badge/Platform-Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Project%20Category-Supply%20Chain%20Analytics-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Analysis%20Type-End--to--End%20Operational%20Insights-228B22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dashboard%20Level-Enterprise%20Grade-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge" />
+
+</div>
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Summary
 
-This project presents a comprehensive **Supply Chain & Logistics Dashboard for Samsung**, developed using Power BI to analyze procurement, inventory, suppliers, shipments, and overall operational performance.
+This project presents a comprehensive **Supply Chain & Logistics Analytics Dashboard** built using Power BI to monitor, analyze, and optimize Samsung’s end-to-end supply chain operations.
 
-The dashboard enables stakeholders to monitor key logistics KPIs, identify supply chain inefficiencies, track inventory levels, and optimize supplier and shipment performance.
+The dashboard enables real-time tracking of critical business functions including:
 
-Key metrics analyzed include Total Revenue, Profit Margin, Inventory Levels, Procurement Quantity, Shipment Performance, Supplier Lead Time, and Product Defect Rates.
+- Supplier performance and procurement efficiency  
+- Inventory levels and stock optimization  
+- Shipment and logistics performance  
+- Customer delivery insights  
+- Revenue, profit, and operational KPIs  
+
+It provides actionable insights to help stakeholders improve operational efficiency, reduce supply chain risks, and support data-driven decision-making.
+
+---
+
+## 🎯 Business Objectives
+
+This dashboard was designed to help answer key supply chain questions:
+
+- How efficiently is the supply chain operating?
+- Which suppliers deliver the best performance?
+- Are inventory levels optimized?
+- How effective are shipment and delivery operations?
+- What is the overall profitability of supply chain operations?
+
+---
+
+## 🧠 Dashboard Capabilities
+
+✔ Executive-level KPI monitoring  
+✔ Supplier performance evaluation  
+✔ Inventory optimization analysis  
+✔ Shipment and logistics tracking  
+✔ Customer delivery performance monitoring  
+✔ Interactive drill-down and filtering  
 
 ---
 
@@ -134,6 +170,8 @@ Business Value:
 - Identifies reliable and unreliable shipment partners
 - Supports logistics optimization strategies
 
+---
+
 ### 👥 Customer & Platform Performance Dashboard
 
 ![Customer Analysis](screenshots/customer.png)
@@ -153,7 +191,6 @@ Business Value:
 - Helps optimize sales channel strategy
 - Supports revenue growth planning
 
----
 ---
 
 ## 📊 Key Business Insights

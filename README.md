@@ -30,28 +30,6 @@ It provides actionable insights to help stakeholders improve operational efficie
 
 ---
 
-## 🎯 Business Objectives
-
-This dashboard was designed to help answer key supply chain questions:
-
-- How efficiently is the supply chain operating?
-- Which suppliers deliver the best performance?
-- Are inventory levels optimized?
-- How effective are shipment and delivery operations?
-- What is the overall profitability of supply chain operations?
-
----
-
-## 🧠 Dashboard Capabilities
-
-✔ Executive-level KPI monitoring  
-✔ Supplier performance evaluation  
-✔ Inventory optimization analysis  
-✔ Shipment and logistics tracking  
-✔ Customer delivery performance monitoring  
-✔ Interactive drill-down and filtering  
-
----
 
 ## 🌐 🔗 Live Interactive Dashboard
 
@@ -203,6 +181,8 @@ Business Value:
 * 📊 Platform analysis helps identify high-performing sales channels.
 
 ---
+
+
 
 ## 🛠️ Tools & Technologies Used
 
